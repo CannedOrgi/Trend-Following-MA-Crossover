@@ -2,4 +2,7 @@
 
 FundedNext charges $3 per lot (round trip). Results have been simulated using MT5 backtester, accounting for slippage and fees.
 
-<img width="714" alt="image" src="https://github.com/user-attachments/assets/b30e8fc7-8b99-4abc-85d1-45549d6f23ef" />
+Results are completely OOS, haven't been used at all in optimization or tuning. 
+
+<img width="669" alt="image" src="https://github.com/user-attachments/assets/132de61d-bdd2-436b-957c-d7e11c8b608c" />
+
